@@ -56,7 +56,7 @@ const NewsCard = () => {
                             <h1>{items.title}</h1>
                             <p>{items.description}</p>
                             <p>{items.publishedAt}</p>
-                            <a href="">Read more</a>
+                            <a href={items.url}>Read more</a>
                         </article >
                     ))}
                 </div>
