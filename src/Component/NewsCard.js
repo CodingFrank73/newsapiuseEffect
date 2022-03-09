@@ -31,7 +31,7 @@ const NewsCard = () => {
 
             })
 
-        console.log(newsArr);
+        // console.log(newsArr);
 
         return () => {
             loaded = false;
@@ -47,7 +47,6 @@ const NewsCard = () => {
                     <button onClick={() => setNewsType('apple')}> Apple</button>
                     <button onClick={() => setNewsType('tesla')}>Tesla</button>
                     <button onClick={() => setNewsType('war')}>War</button>
-
                 </article>
 
                 <div className="flex">
