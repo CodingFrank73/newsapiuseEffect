@@ -68,14 +68,14 @@ const NewsCard = () => {
 export default NewsCard
 
 
-{/* <select name="" id="" value={lang} onChange={e => setNewLang(e.target.value)}>
-                        {lang.map((addres) => {
-                            <option key={addres} value={addres}>{addres}</option>
-                            console.log(lang);
-                        })} */}
+//<select name="" id="" value={lang} onChange={e => setNewLang(e.target.value)}>
+                        //{lang.map((addres) => {
+                            //<option key={addres} value={addres}>{addres}</option>
+                            //console.log(lang);
+                        //})} */}
 
 
 
-{/* <option value="de">Deutsch</option>
-                        <option value="en">Englisch</option>
-                        <option value="fr">Französisch</option> */}
+//{/* <option value="de">Deutsch</option>
+                        //<option value="en">Englisch</option>
+                        //<option value="fr">Französisch</option> */}
